@@ -39,9 +39,9 @@
 
 ## Links
 
-<karshikapadia@gmail.com> 
+:email: <karshikapadia@gmail.com> 
 
-<https://www.linkedin.com/in/karshikapadia/>
+:briefcase: <https://www.linkedin.com/in/karshikapadia/>
 
-<https://www.instagram.com/the_kintsukuroi/>
+:sunrise_over_mountains: <https://www.instagram.com/the_kintsukuroi/>
 
