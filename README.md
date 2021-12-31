@@ -34,8 +34,8 @@
 
 ## Education
 
-### MS Data Analytics Engineering | Northeastern University | Graduated December 2021
-### B.Tech Electrical Engineering | CHARUSAT University | Graduated May 2017
+### MS Data Analytics Engineering   |   Northeastern University   |   December 2021
+### B.Tech Electrical Engineering   |   CHARUSAT University       |   May 2017
 
 ## Links
 
