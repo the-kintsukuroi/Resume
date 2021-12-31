@@ -39,7 +39,9 @@
 
 ## Links
 
-<karshikapadia@gmail.com>
+<karshikapadia@gmail.com> 
+
 <https://www.linkedin.com/in/karshikapadia/>
+
 <https://www.instagram.com/the_kintsukuroi/>
 
